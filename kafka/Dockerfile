@@ -1,2 +1,2 @@
-FROM apache/kafka:3.7.0
+FROM docker.io/bitnami/kafka:3.3.2
 MAINTAINER Q
