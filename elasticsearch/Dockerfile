@@ -1,2 +1,2 @@
-FROM elasticsearch:8.13.3
+FROM elasticsearch:8.13.4
 MAINTAINER Q
